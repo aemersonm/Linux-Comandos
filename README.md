@@ -3,7 +3,7 @@
 |   Comandos   |            Descripción                 |                     Ejemplos de Uso                     |
 |----------|----------------------------------------|---------------------------------------------------------|
 |  clear   | Limpia el contenido actual de la consola | Se digita "clear" y el contenido en consola se limpiará |
-| ip addr  |  Se obtiene la dirección IP de la MV   | Se digita "ip addr" y se obtendrá inet IP_ADDRESS.      |
+| ip addr  |  Se obtiene la dirección IP de la MV   | Se digita "ip addr" y se obtendrá la dirección IP del equipo.      |
 |sudo apt-get update | Instala las versiones más nuevas de todos los paquetes instalados en el sistema | Se digita "sudo apt-get update" y se iniciará el proceso de actualización de los paquetes.| 
 | sudo pacman -Syuu | Comando para distribuciones basadas en Arch Linux, instala las versiones más nuevas de todos los paquetes instalados en el SO | Se digita "sudo pacman -Syuu" y se iniciará el proceso de actualización de los paquetes |
 | sudo pacman -S apache | Instala Apache en distribuciones basadas en Arch | se digita el comando "sudo pacman -S apache" y se iniciará la instalación de Apache |
@@ -14,7 +14,7 @@
 | nano | Crea un archivo en una carpeta específica | En la carpeta donde se desea crear el archivo, se digita el comando "nano script.sh" y el nuevo archivo se creará con el nombre "script" |
 | mv | Mueve una carpeta, archivo o directorio a una ubicación específica | Digitar el comando "mv /home/Desktop/script.sh" y el archivo script.sh se moverá al escritorio|
 | cp | Copia una carpeta, archivo o directorio en una ubicación específica | Digitar el comando "cp /home/Desktop/script.sh" y el archivo script.sh se copiará al escritorio |
-| rm | Elimina una carpeta, directorio o archivo | Digitar el comando "rm DIRECTORIO/CARPETA/ARCHIVO" |
+| rm | Elimina una carpeta, directorio o archivo | Digitar el comando "rm /home/ealvaradom097/Documents/script.txt" y el archivo llamado script.txt será eliminado |
 | cd | Abreviatura de "Change Directory", se encarga de navegar por el directorio deseado | Se digita el comando "cd /home/ealvaradom997/utils" y en consola se navegará por el directorio ingresado y se mantendrá en la carpeta "utils". |
 | ls | Muestra la lista del contenido del directorio deseado | Se digita el comando "ls Desktop" y aparecerá una lista de todos las carpetas y archivos almacenados en el  escritorio. |
 | ls -l | Muestra la lista de contenido del directorio deseando incluyendo los permisos de lectura, escritura y ejecución de cada carpeta o archivo | Se digita el comando "ls -l Desktop" y se mostrará una lista de todas las carpetas y archivos almacenados en el escritorio con sus respectivos usuarios creadores y permisos de ejecucion, escritura y lectura |
