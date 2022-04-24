@@ -29,4 +29,4 @@
 | history | Al utilizar este comando, de forma predeterminada se mostrará una lista de los últimos 500 comandos utilizados | Se digita el comando "history" y se mostrarán en consola los últimos 500 comandos utilizados |
 | sudo apt install screenfetch | Instala screenfetch, programa encargado de recopilar información general del sistema y mostrarla en pantalla | Al digitar el comando "sudo apt install screenfetch" se iniciará el proceso de descarga del programa |
 | ps | Muestra la lista de procesos que están siendo ejecutados | Se ejecuta el comando "ps" y posteriormente se mostrará en consola una lista de los procesos activos en la sesión |
-| 
+|  |
