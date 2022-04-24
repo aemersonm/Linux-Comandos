@@ -2,7 +2,7 @@
 
 |   Comandos   |            Descripción                 |                     Ejemplos de Uso                     |
 |----------|----------------------------------------|---------------------------------------------------------|
-|  clear   |Limpia el contenido actual de la consola| Se digita "clear" y el contenido en consola se limpiará |
+|  clear   | Limpia el contenido actual de la consola | Se digita "clear" y el contenido en consola se limpiará |
 | ip addr  |  Se obtiene la dirección IP de la MV   | Se digita "ip addr" y se obtendrá inet IP_ADDRESS.      |
 |sudo apt-get update | Instala las versiones más nuevas de todos los paquetes instalados en el sistema | Se digita "sudo apt-get update" y se iniciará el proceso de actualización de los paquetes.| 
 | sudo pacman -Syuu | Comando para distribuciones basadas en Arch Linux, instala las versiones más nuevas de todos los paquetes instalados en el SO | Se digita "sudo pacman -Syuu" y se iniciará el proceso de actualización de los paquetes |
@@ -18,4 +18,6 @@
 | cd | Abreviatura de "Change Directory", se encarga de navegar por el directorio deseado | Se digita el comando "cd /home/ealvaradom997/utils" y en consola se navegará por el directorio ingresado y se mantendrá en la carpeta "utils". |
 | ls | Muestra la lista del contenido del directorio deseado | Se digita el comando "ls Desktop" y aparecerá una lista de todos las carpetas y archivos almacenados en el  escritorio. |
 | man | Muestra en consola el manual de otro comando | Se digita el comando "man cp" y mostrará el manual de uso del comando |
+| useradd | Se encarga de agregar un usuario al SO | Se digita el comando "user add ealvaradom097" y el usuario ealvaradom097 será agregado al sistema |
+
 
