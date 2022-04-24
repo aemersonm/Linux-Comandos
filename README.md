@@ -17,6 +17,7 @@
 | rm | Elimina una carpeta, directorio o archivo | Digitar el comando "rm DIRECTORIO/CARPETA/ARCHIVO" |
 | cd | Abreviatura de "Change Directory", se encarga de navegar por el directorio deseado | Se digita el comando "cd /home/ealvaradom997/utils" y en consola se navegará por el directorio ingresado y se mantendrá en la carpeta "utils". |
 | ls | Muestra la lista del contenido del directorio deseado | Se digita el comando "ls Desktop" y aparecerá una lista de todos las carpetas y archivos almacenados en el  escritorio. |
+| ls -l | Muestra la lista de contenido del directorio deseando incluyendo los permisos de lectura, escritura y ejecución de cada carpeta o archivo | Se digita el comando "ls -l Desktop" y se mostrará una lista de todas las carpetas y archivos almacenados en el escritorio con sus respectivos usuarios creadores y permisos de ejecucion, escritura y lectura |
 | man | Muestra en consola el manual de otro comando | Se digita el comando "man cp" y mostrará el manual de uso del comando |
 | useradd | Se encarga de agregar un usuario al SO | Se digita el comando "user add ealvaradom097" y el usuario ealvaradom097 será agregado al sistema |
 | sudo su | Comando utilizado para acceder al usuario root dentro de la consola | Al digitar el comando "sudo su" se podrá acceder al usuario root y realizar acciones con permisos especiales |
@@ -24,4 +25,8 @@
 | more | Se utiliza para visualizar el contenido de un archivo, pero NO se podrán realizar modificaciones | Se digita el comando "more matricula.txt" y se mostrará el contenido del archivo sin opción de modificación |
 | tail -n | La salida de este comando muestra las últimas n cantidad de líneas de un archivo | Se digita el comando "tail -n 5 script.txt" y en la salida se mostrarán las últimas 5 líneas del archivo "script.txt" |
 | head -n | La función de este comando es lo contrario al comando tail, ya que head -n muestra las primeras n cantidad de líneas de un archivo | Se digita el comando "head -n 2 script.txt" y en la salida se mostrarán las primeras 2 líneas del archivo "script.txt" |
-
+| passwd | Se utiliza para cambiar la contraseña de un usuario del SO | Se digita el comando "sudo passwd ealvaradom097" y posteriormente aparecerá un espacio para ingresar la nueva contraseña para el usuario ealvaradom097 |
+| history | Al utilizar este comando, de forma predeterminada se mostrará una lista de los últimos 500 comandos utilizados | Se digita el comando "history" y se mostrarán en consola los últimos 500 comandos utilizados |
+| sudo apt install screenfetch | Instala screenfetch, programa encargado de recopilar información general del sistema y mostrarla en pantalla | Al digitar el comando "sudo apt install screenfetch" se iniciará el proceso de descarga del programa |
+| ps | Muestra la lista de procesos que están siendo ejecutados | Se ejecuta el comando "ps" y posteriormente se mostrará en consola una lista de los procesos activos en la sesión |
+| 
