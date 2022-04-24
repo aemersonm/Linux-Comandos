@@ -16,4 +16,6 @@
 | cp | Copia una carpeta, archivo o directorio en una ubicación específica | Digitar el comando "cp ARCHIVO RUTA/A COPIAR/EL ARCHIVO" |
 | rm | Elimina una carpeta, directorio o archivo | Digitar el comando "rm DIRECTORIO/CARPETA/ARCHIVO" |
 | cd | Abreviatura de "Change Directory", se encarga de navegar por el directorio deseado | Se digita el comando "cd /home/ealvaradom997/utils" y en consola se navegará por el directorio ingresado y se mantendrá en la carpeta "utils". |
+| ls | Muestra la lista del contenido del directorio deseado | Se digita el comando "ls Desktop" y aparecerá una lista de todos las carpetas y archivos almacenados en el  escritorio. |
+| man | Muestra en consola el manual de otro comando | Se digita el comando "man cp" y mostrará el manual de uso del comando |
 
