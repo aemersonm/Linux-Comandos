@@ -19,5 +19,9 @@
 | ls | Muestra la lista del contenido del directorio deseado | Se digita el comando "ls Desktop" y aparecerá una lista de todos las carpetas y archivos almacenados en el  escritorio. |
 | man | Muestra en consola el manual de otro comando | Se digita el comando "man cp" y mostrará el manual de uso del comando |
 | useradd | Se encarga de agregar un usuario al SO | Se digita el comando "user add ealvaradom097" y el usuario ealvaradom097 será agregado al sistema |
+| sudo su | Comando utilizado para acceder al usuario root dentro de la consola | Al digitar el comando "sudo su" se podrá acceder al usuario root y realizar acciones con permisos especiales |
+| whoami | Comando utilizado en scripts de shell para validaciones de nombre de usuario que ejecuta el script | Se ingresa el comando "whoami" y en la salida se devolverá el nombre del usuario que está haciendo la ejecución |
+| more | Se utiliza para visualizar el contenido de un archivo, pero NO se podrán realizar modificaciones | Se digita el comando "more matricula.txt" y se mostrará el contenido del archivo sin opción de modificación |
+| tail -n | La salida de este comando muestra las últimas n cantidad de líneas de un archivo | Se digita el comando "tail -n 5 <script.txt>" y en la salida se mostrarán las últimas 5 líneas de archivo "script.txt" |
 
 
